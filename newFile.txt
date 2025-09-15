@@ -3,3 +3,4 @@ Hello World
 I'm 20 years old.
 
 done the Kanban course
+finish the Git course
