@@ -1,2 +1,4 @@
 I'm DucNguyen, CMC University
 ===
+
+I'm doing with Git now 
